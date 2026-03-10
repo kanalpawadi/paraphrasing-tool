@@ -1,0 +1,8 @@
+streamlit
+groq
+chromadb
+sentence-transformers
+python-dotenv
+venv/
+.env
+__pycache__/
